@@ -89,7 +89,7 @@ Python, Bash, PowerShell, HTML
 
 ## 📫 Contact
 
-- 📧 Email: sheldon.brown@email.com
+- 📧 Email: sh31don@duck.com
 - 💼 LinkedIn: linkedin.com/in/sheldon-brown-cybersecurity
 
 ---
