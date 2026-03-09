@@ -22,7 +22,7 @@
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-I'm a **Cybersecurity Analyst** at Northwell Health with a passion for penetration testing, red teaming, and CTF competitions. I specialize in offensive security, vulnerability assessment, and securing healthcare systems.
+I'm a **Cybersecurity Enthusiast | AI Automation Specialist** with a passion for penetration testing, red teaming, and CTF competitions. I specialize in offensive security, vulnerability assessment, and securing healthcare systems.
 
 ---
 
