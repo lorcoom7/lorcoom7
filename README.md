@@ -73,8 +73,8 @@ I'm a **Cybersecurity Enthusiast | AI Automation Specialist** with a passion for
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorcoom7&show_icons=true&theme=radical&bg_color=0c0e12&border_color=a855f7&title_color=a855f7&text_color=e5e7eb&icon_color=a855f7&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorcoom7&layout=compact&theme=radical&bg_color=0c0e12&border_color=a855f7&title_color=a855f7&text_color=e5e7eb&hide=html" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lorcoom7&show_icons=true&theme=radical&bg_color=0c0e12&border_color=a855f7&title_color=a855f7&text_color=e5e7eb&icon_color=a855f7&include_all_commits=true" height="180" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorcoom7&layout=compact&theme=radical&bg_color=0c0e12&border_color=a855f7&title_color=a855f7&text_color=e5e7eb&hide=html" height="180" alt=""/>
 </p>
 
 <p align="center">
