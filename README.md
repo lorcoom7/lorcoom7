@@ -165,9 +165,9 @@ I'm a **Cybersecurity Analyst** at Northwell Health with a passion for penetrati
 
 <p>
 
-<img src="https://img.shields.io/badge/CompTIA_Security+-C22E2A?style=flat-square&logo=compTIA&logoColor=white" alt="CompTIA Security+">
+<img src="https://img.shields.io/badge/Security+-C22E2A?style=flat-square" alt="CompTIA Security+">
 
-<img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity Certificate">
+<img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=flat-square" alt="Google Cybersecurity Certificate">
 
 <img src="https://img.shields.io/badge/CEH-In_Progress-FF6F00?style=flat-square" alt="CEH In Progress">
 
