@@ -73,12 +73,12 @@ I'm a **Cybersecurity Analyst** at Northwell Health with a passion for penetrati
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorcoom7&show_icons=true&theme=radical&bg_color=0c0e12&border_color=a855f7&title_color=a855f7&text_color=e5e7eb&icon_color=a855f7" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorcoom7&layout=compact&theme=radical&bg_color=0c0e12&border_color=a855f7&title_color=a855f7&text_color=e5e7eb" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lorcoom7&show_icons=true&theme=radical&bg_color=0c0e12&border_color=a855f7&title_color=a855f7&text_color=e5e7eb&icon_color=a855f7&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorcoom7&layout=compact&theme=radical&bg_color=0c0e12&border_color=a855f7&title_color=a855f7&text_color=e5e7eb&hide=html" height="180" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lorcoom7&theme=radical&background=0c0e12&border=a855f7&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabel=a855f7" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lorcoom7&theme=radical&background=0c0e12&border=a855f7&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabel=a855f7&include_all_commits=true" alt="Streak Stats"/>
 </p>
 
 ---
