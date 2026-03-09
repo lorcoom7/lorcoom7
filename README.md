@@ -163,9 +163,17 @@ I'm a **Cybersecurity Analyst** at Northwell Health with a passion for penetrati
 
 ## 📜 Certifications
 
-- 🔄 CEH (Certified Ethical Hacker) - In Progress
-- 🎯 CompTIA Security+ - In Progress
-- 🛡️ OSWP (Offensive Security Wireless Professional) - Planned
+<p>
+
+<img src="https://img.shields.io/badge/CompTIA_Security+-C22E2A?style=flat-square&logo=compTIA&logoColor=white" alt="CompTIA Security+">
+
+<img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity Certificate">
+
+<img src="https://img.shields.io/badge/CEH-In_Progress-FF6F00?style=flat-square" alt="CEH In Progress">
+
+<img src="https://img.shields.io/badge/OSWP-Planned-6c757d?style=flat-square" alt="OSWP Planned">
+
+</p>
 
 ---
 
