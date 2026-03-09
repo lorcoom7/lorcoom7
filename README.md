@@ -54,7 +54,7 @@ I'm a **Cybersecurity Analyst** at Northwell Health with a passion for penetrati
 <p>
   <img src="https://img.shields.io/badge/Nmap-0x1b87?style=flat-square&logo=nmap&logoColor=white" alt="Nmap">
   <img src="https://img.shields.io/badge/Burp_Suite-FB8F2E?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
-  <img src="img.shields.io/badge/Metasploit-EF3433?style=flat-square" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Metasploit-EF3433?style=flat-square" alt="Metasploit">
   <img src="https://img.shields.io/badge/SQLMap-FF3300?style=flat-square" alt="SQLMap">
   <img src="https://img.shields.io/badge/Hashcat-FF3300?style=flat-square" alt="Hashcat">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
@@ -65,7 +65,7 @@ I'm a **Cybersecurity Analyst** at Northwell Health with a passion for penetrati
   <img src="https://img.shields.io/badge/Kali_Linux-367BF0?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Parrot_OS-4881EE?style=flat-square" alt="Parrot OS">
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server">
-  <img src="img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
 </p>
 
 ---
