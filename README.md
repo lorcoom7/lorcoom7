@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sheldon Brown (Bossman Shell)
+# 👋 Hi, I'm Sheldon Brown
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lorcoom7&style=flat-square&color=a855f7&label=Profile+Views" alt="Profile Views">
